@@ -1,6 +1,6 @@
 def main():
     print("Hello from django-example!")
-    print("Hello world!")
+    print("Hello beautiful world!")
     print("Lily said that she love zig too.")
 
 
