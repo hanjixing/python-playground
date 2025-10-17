@@ -1,1 +1,2 @@
 Hello from rust!
+Rust is also awosome, since it resolved many problem exists in c++, actually I'm using many useful CLI applications written in rust.
