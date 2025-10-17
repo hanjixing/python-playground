@@ -2,6 +2,7 @@ def main():
     print("Hello from django-example!")
     print("Hello beautiful world!")
     print("Lily said that she love zig too.")
+    print("Now, Let's experiment the `rebase` command.")
 
 
 if __name__ == "__main__":
