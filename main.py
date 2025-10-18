@@ -6,6 +6,8 @@ def main():
 
     print("I really want to do rebase")
 
+    print("Lily cooperated and just made an inital commit.")
+
 
 if __name__ == "__main__":
     main()
