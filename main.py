@@ -8,6 +8,7 @@ def main():
 
     print("Lily cooperated and just made an inital commit.")
     print("Lily made an another commit.")
+    print("Lily made a third commit in order to let hanjixing to a `git pull`")
 
 
 if __name__ == "__main__":
