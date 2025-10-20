@@ -11,6 +11,7 @@ def main():
     print("Lily made a third commit in order to let hanjixing to a `git pull`")
 
     print("Try to experiment with `git stash` (from hanjixing's side)")
+    print("Try to experiment with `git stash` command (from Lily's side)")
 
 
 if __name__ == "__main__":
