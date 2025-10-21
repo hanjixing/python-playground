@@ -13,6 +13,8 @@ def main():
     print("Try to experiment with `git stash` (from hanjixing's side)")
     print("Try to experiment with `git stash` command (from Lily's side)")
 
+    print("Try to experiment with `git reset` command")
+
 
 if __name__ == "__main__":
     main()
