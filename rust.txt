@@ -2,4 +2,4 @@ Hello from rust!
 Rust is also awosome, since it resolved many problem exists in c++, actually I'm using many useful CLI applications written in rust.
 Hi, rust crab! I'm thinking about my life problems.
 Hi, I'm Lily, I love rust too!
-Hi rust, I want to do some interative reabase.
+Hi rust, I want to do something for interative reabase.
