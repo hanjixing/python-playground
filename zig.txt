@@ -8,3 +8,4 @@ The community of zig and rust should be friendly to each other.😄
 
 Lily appreciated the thought that 'The community of zig and rust should be friendly to each other.'
 
+Hi zig, I want to do some interactive rebase.
