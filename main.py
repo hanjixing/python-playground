@@ -15,6 +15,8 @@ def main():
 
     print("Try to experiment with `git reset` command")
 
+    print("Try to deal with revert conflicts")
+
 
 if __name__ == "__main__":
     main()
