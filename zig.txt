@@ -5,3 +5,6 @@ zig aims to offer `nonhidden controls`, which is really nice.
 That's great that Lily also likes zig.😁
 
 The community of zig and rust should be friendly to each other.😄
+
+Lily appreciated the thought that 'The community of zig and rust should be friendly to each other.'
+
